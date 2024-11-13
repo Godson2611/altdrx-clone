@@ -38,8 +38,8 @@ Design the following sections of the homepage:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Godson2611/algdrx-clone.git
-   cd algdrx-clone
+   git clone https://github.com/Godson2611/altdrx-clone.git
+   cd altdrx-clone
    ```
 
 ## Screenshots
